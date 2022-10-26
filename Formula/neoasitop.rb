@@ -3,7 +3,7 @@ class Neoasitop < Formula
   homepage "https://github.com/op06072/NeoAsitop/download/neoasitop.tar.gz"
   url "https://github.com/op06072/NeoAsitop/releases/latest/download/neoasitop.tar.gz"
   sha256 "b8596c1ebe09edf6c77a135592180bf9c6d1ebd6eca805c3b2906d03216ff838"
-  version "2.2"
+  version "2.3"
 
   def install
     bin.install "neoasitop"
