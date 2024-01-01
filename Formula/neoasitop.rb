@@ -2,8 +2,8 @@ class Neoasitop < Formula
   desc "Sudoless performance monitoring CLI tool for Apple Silicon written in Swift"
   homepage "https://github.com/op06072/NeoAsitop"
   url "https://github.com/op06072/NeoAsitop/releases/latest/download/neoasitop.tar.gz"
-  sha256 "f3e4aa014672706104d801f1da07f1452578846bfc12344c0fbd99f7f200a7bc"
-  version "2.9"
+  sha256 "e158ce773f57dd4ef49252f5dad71b150d449ac3b4d03310cee22bb1fc4c7304"
+  version "2.10"
   depends_on arch: :arm64
   depends_on xcode: :build
   depends_on :macos
